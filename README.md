@@ -2,6 +2,8 @@
 
 Aplicação em Python para controle de entrada e saída de veículos em um estacionamento, com separação de vagas por tipo (`carro`, `moto` e `pcd`).
 
+> Built with Google Gemini
+
 ## Funcionalidades
 
 - Registro de entrada de veículos por placa e tipo.
@@ -61,6 +63,17 @@ python sistema_estacionamento.py
 3. Exibir Status
 4. Listar Veículos
 5. Sair
+
+## Exemplo rápido de uso
+
+Fluxo básico no terminal:
+
+1. Escolha `1` (Registrar Entrada)
+2. Informe placa, por exemplo: `ABC1234`
+3. Informe tipo: `carro`
+4. Escolha `3` (Exibir Status) para ver ocupação atual
+5. Escolha `2` (Registrar Saída) e informe a mesma placa
+6. Escolha `4` (Listar Veículos) para ver ativos e histórico
 
 ## Melhorias futuras (opcional)
 
