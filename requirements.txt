@@ -1,0 +1,2 @@
+# Projeto usa apenas bibliotecas padrão do Python no momento.
+# Este arquivo foi mantido para padronizar o fluxo de setup.

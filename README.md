@@ -36,6 +36,16 @@ Aplicação em Python para controle de entrada e saída de veículos em um estac
 
 - Python 3.8 ou superior
 
+### Criando ambiente virtual (recomendado)
+
+No PowerShell, dentro da pasta do projeto:
+
+```powershell
+python -m venv .venv
+\.venv\Scripts\Activate.ps1
+pip install -r requirements.txt
+```
+
 ### Execução
 
 No terminal, dentro da pasta do projeto:
